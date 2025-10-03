@@ -18,13 +18,9 @@
 
 ---
 
-### 🖥️ Сейчас печатаю...
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=8B8B8B&center=true&vCenter=true&width=600&lines=Paper+1.21...;Spigot+API...;Custom+Plugins...;Optimizing+TPS...;Writing+Java...;Debugging+logs...;Making+players+stay..." alt="Typing SVG" />
 </div>
-
-> Тихо. Спокойно. Код пишется сам.
 
 ---
 
