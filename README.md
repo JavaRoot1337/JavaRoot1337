@@ -22,8 +22,8 @@
 ### 🌐 Моя "голограмма" — статистика по репозиториям
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavaRoot&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavaRoot&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JavaRoot1337&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavaRoot1337&layout=compact&theme=radical" width="48%" />
 </div>
 
 > 🔍 Слева — общая активность, справа — топ языков (в основном Java, иногда Kotlin)
