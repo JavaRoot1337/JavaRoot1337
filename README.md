@@ -1,44 +1,39 @@
 <div align="center">
 
-# 👋 Привет! Я — **JavaRoot**
+# Всем гучи. Я кнодел ебучий.
 
-### 🧱 Разработчик Minecraft-плагинов (Paper/Spigot API, 1.21+)  
-### ⚙️ Технический администратор серверов с 2019 года
+### Разработчик Minecraft-плагинов (Paper/Spigot API, 1.21+)  
+### Технический администратор серверов с 2019 года
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JavaRoot)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![PaperMC](https://img.shields.io/badge/PaperMC-4285F4?style=for-the-badge&logo=git&logoColor=white)](https://papermc.io)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/JavaRoot)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![PaperMC](https://img.shields.io/badge/PaperMC-4285F4?style=flat&logo=git&logoColor=white)](https://papermc.io)
 
-<br><br>
+<br>
 
-> 💬 В сообществе меня знают как **JavaRoot (нн)**.  
-> С 2019 года в комьюнити разработчиков.
+> 💬 В сообществе — **JavaRoot (ноунейм нах)**. С 2019 года в Minecraft-разработке.
 
 </div>
 
 ---
 
-### 🌐 Моя "голограмма" — статистика по репозиториям
+### Активность
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavaRoot1337&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavaRoot1337&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JavaRoot1337&theme=github_dark&bg_color=00000000&color=8b8b8b&line=8b8b8b&point=555555&area=true&hide_border=true" width="100%" />
 </div>
-
-> 🔍 Слева — общая активность, справа — топ языков (в основном Java, иногда Kotlin)
 
 ---
 
 ### Обо мне
 
-- Запустил первый сервер на **Aternos** для друзей → увлёкся технической стороной  
-- Сейчас пишу **самописы плагины** под **Пейпер и Спигот 1.21+** на джаве и котлин (котлин очень редко, в основном заказы)
-- Был **тех. админом** на проектах:  
-  - **WileWorld** (копия ReallyWorld)  
-  - **FerrumPlay** (приватное SMP-выживание)
-  - Назвал **последние сервера**, на которых стоял более 6-ти месяцев
-- Все заказы — **только с положительными отзывами** → [смотреть отзывы](https://t.me/javafeedback)
+- Первый сервер запустил на **Aternos** для друзей → ушёл в глубокую техническую сторону  
+- Пишу **кастомные плагины** под **Paper/Spigot 1.21+** на Java (Kotlin — редко, по запросу)  
+- Был **тех. админом** на:  
+  - **WileWorld** (аналог ReallyWorld)  
+  - **FerrumPlay** (приватное SMP-выживание)  
+- Все заказы — **только с положительными отзывами** → [отзывы](https://t.me/javafeedback)
 
 ---
 
@@ -46,4 +41,4 @@
 
 - **Telegram**: [@JavaRoot](https://t.me/JavaRoot)  
 - **Discord**: `javarootov`  
-- **Отзывы**: [Канал @javafeedback](https://t.me/javafeedback)
+- **Отзывы**: [@javafeedback](https://t.me/javafeedback)
