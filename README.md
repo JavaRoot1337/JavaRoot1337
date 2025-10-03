@@ -18,11 +18,13 @@
 
 ---
 
-### Активность
+### 🖥️ Сейчас печатаю...
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JavaRoot1337&theme=github_dark&bg_color=00000000&color=8b8b8b&line=8b8b8b&point=555555&area=true&hide_border=true" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=8B8B8B&center=true&vCenter=true&width=600&lines=Paper+1.21...;Spigot+API...;Custom+Plugins...;Optimizing+TPS...;Writing+Java...;Debugging+logs...;Making+players+stay..." alt="Typing SVG" />
 </div>
+
+> Тихо. Спокойно. Код пишется сам.
 
 ---
 
