@@ -1,7 +1,5 @@
 <div align="center">
 
-# Всем гучи. Я кнодел ебучий.
-
 ### Разработчик Minecraft-плагинов (Paper/Spigot API, 1.21+)  
 ### Технический администратор серверов с 2019 года
 
@@ -31,7 +29,7 @@
 - Был **тех. админом** на:  
   - **WileWorld** (аналог ReallyWorld)  
   - **FerrumPlay** (приватное SMP-выживание)  
-- Все заказы — **только с положительными отзывами** → [отзывы](https://t.me/javafeedback)
+- Все заказы — **только с положительными отзывами** → [отзывы](https://t.me/feedbackjava)
 
 ---
 
@@ -39,4 +37,4 @@
 
 - **Telegram**: [@JavaRoot](https://t.me/JavaRoot)  
 - **Discord**: `javarootov`  
-- **Отзывы**: [@javafeedback](https://t.me/javafeedback)
+- **Отзывы**: [@javafeedback](https://t.me/feedbackjava)
